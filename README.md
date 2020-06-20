@@ -1,2 +1,2 @@
 # imersaocss
-HTML e CSS basic
+Site construido durante a ImersãoCSS da Alura com Design Padrão do curso.
